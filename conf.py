@@ -16,9 +16,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'USA Walelets'
+project = 'trst No.'
 copyright = '2025'
-author = 'Carlos Geek'
+author = 'Wilson'
 
 
 # The full version, including alpha/beta/rc tags
